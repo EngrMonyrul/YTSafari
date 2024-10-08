@@ -287,7 +287,7 @@ class HomePage extends StatelessWidget {
                                           shape: BoxShape.circle,
                                           border: Border.all(
                                               color:
-                                                  theme.colorScheme.onSurface),
+                                                  theme.colorScheme.tertiary),
                                         ),
                                         child: Icon(
                                           Icons.favorite_outlined,
